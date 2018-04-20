@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 18fee2b5a65a52c4ea64e9915257a49b
+timeCreated: 1495959936
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: odstemplik
+  fontNames:
+  - odstemplik
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

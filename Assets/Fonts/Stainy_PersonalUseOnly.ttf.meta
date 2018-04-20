@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b7d5e4d3cf6468348a5ffc0e6d57bfb4
+timeCreated: 1495960531
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stainy Personal Use Only
+  fontNames:
+  - Stainy Personal Use Only
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

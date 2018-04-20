@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a5deb373b27c2114b934abf53f037763
+timeCreated: 1497038719
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - questionUI: {instanceID: 0}
+  - ball: {instanceID: 0}
+  - main: {instanceID: 0}
+  - wstecz: {instanceID: 0}
+  - sterowanie: {instanceID: 0}
+  - dzwiek: {instanceID: 0}
+  - reset: {instanceID: 0}
+  - question_tak: {instanceID: 0}
+  - question_nie: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
